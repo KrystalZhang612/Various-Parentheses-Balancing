@@ -5,11 +5,9 @@
 using namespace std;
 
 
+//here, we are using stack to check if the parentheses are balanced. 
 
-
-//use stack to check if the parentheses are balanced. 
-
-//Algorithm:
+//Algorithm details: 
 
 //create an empty stack to allocate 
 //Traverse the entire input string
